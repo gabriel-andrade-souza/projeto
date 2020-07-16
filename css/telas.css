@@ -1,0 +1,76 @@
+    /*css para estilo das telas*/
+    /*_________________________*/
+    /*estilo personalizado do Dashboard*/
+    /*_________________________________*/
+    #dashboard{
+        margin-top: 20px;
+        padding: 20px 10px 20px 20px;   
+        width: auto;
+        padding: 30px auto;
+        background: #ffffff;
+        box-shadow: 6px 6px 10px #999;	
+    }
+    #widget{
+        background: #ffffff;
+        width: auto;
+        height: auto;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        box-shadow: 6px 6px 10px #999;	
+
+    }
+    #badge{
+        background: #ffffff;
+        width: auto;
+        height: auto;
+        padding-bottom: 10px;
+        box-shadow: 6px 6px 10px #999;
+    }
+    #acesso{
+        margin-bottom: 20px;
+        width: auto;  
+        padding: 10px 10px 20px 40px;   
+        background: #ffffff;
+        box-shadow: 6px 6px 10px #999;	
+
+    }
+    #mensagem{
+        color: orange;
+    }
+    body{
+        background: #e6e6e6;
+    }    
+    /*estilo personalizado do cadastros*/
+    /*_________________________________*/
+    }
+    body{
+        background: #e6e6e6;
+    }
+    #cadastro{
+        padding: 10px 10px 30px 10px;
+        margin-top: 20px;
+        background: #ffffff;
+        box-shadow: 6px 6px 10px #999;
+    }
+    /*estilo personalizado da index das classes*/
+    /*_________________________________________*/
+    body{
+        background: #e6e6e6;
+    }
+    #index{
+        padding: 10px 10px 30px 10px;
+        margin-top: 20px;
+        background: #ffffff;
+        box-shadow: 6px 6px 10px #999;
+    }
+    /*estilo personalizado da index das views*/
+    /*_________________________________________*/
+    body{
+        background: #e6e6e6;
+    }
+    #visao{
+        padding: 10px 10px 30px 10px;
+        margin-top: 20px;
+        background: #ffffff;
+        box-shadow: 6px 6px 10px #999;
+    }    
